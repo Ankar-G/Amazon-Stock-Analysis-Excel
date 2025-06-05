@@ -20,8 +20,7 @@ This project presents an interactive Excel dashboard built to analyze the stock 
 
 ## 📷 Dashboard Preview
 
-- `Amazon_Stock_Analysis.xlsx` – Excel dashboard file  
-- `dashboard_screenshot.png` – Dashboard image preview  
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## 💡 Purpose
 
@@ -32,7 +31,7 @@ This project is a part of my data analytics portfolio to demonstrate my skills i
 
 ## 📁 Files Included
 
-- https://github.com/Ankar-G/Amazon-Stock-Analysis-Excel/blob/main/Amazon%20Stock%20Data%20Analysis.xlsx – Excel dashboard file  
+- `Amazon_Stock_Analysis.xlsx` – Excel dashboard file  
 - `dashboard_screenshot.png` – Dashboard image preview  
 
 ## 📬 Feedback
