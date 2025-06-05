@@ -31,7 +31,7 @@ This project is a part of my data analytics portfolio to demonstrate my skills i
 
 ## 📁 Files Included
 
-- `Amazon_Stock_Analysis.xlsx` – Excel dashboard file  
+- https://github.com/Ankar-G/Amazon-Stock-Analysis-Excel/blob/main/Amazon%20Stock%20Data%20Analysis.xlsx – Excel dashboard file  
 - `dashboard_screenshot.png` – Dashboard image preview  
 
 ## 📬 Feedback
