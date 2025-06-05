@@ -20,7 +20,8 @@ This project presents an interactive Excel dashboard built to analyze the stock 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Ankar-G/Amazon-Stock-Analysis-Excel/blob/main/DASHBOARED%20SCREENSHOT.png)
+- `Amazon_Stock_Analysis.xlsx` – Excel dashboard file  
+- `dashboard_screenshot.png` – Dashboard image preview  
 
 ## 💡 Purpose
 
